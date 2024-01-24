@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Course_Aspnetcore_mvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c02836ed207fc8fbff03ce57d81e9ab0af7cd8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Course_Aspnetcore_mvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Course_Aspnetcore_mvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
