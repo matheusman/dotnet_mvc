@@ -1,4 +1,4 @@
 ### Started dotnet core mvc
 
-command run dotnet core:
+command run dotnet core:<br>
  __dotnet new mvc__
